@@ -1,7 +1,7 @@
 line 1 more update
 line 2 more update
-line 3
-line 4
+line 3 updating line (new folder)
+line 4 updating line (new folder)
 line 5
 line 6
 line 7
