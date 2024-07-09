@@ -1,0 +1,25 @@
+From 02a73efa1fbf1972d6222e997b62d182400969d6 Mon Sep 17 00:00:00 2001
+From: Nikusha <nikushajv@gmail.com>
+Date: Tue, 9 Jul 2024 19:46:25 +0400
+Subject: [PATCH] updated two lines in firstFile.txt
+
+---
+ firstFile.txt | 5 ++---
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 3647a46..a218bbb 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,6 +6,5 @@ line 5
+ line 6
+ line 7
+ line 8
+-line 9
+-line 10
+-
++line 9 updated
++line 10 updated
+-- 
+2.45.2.windows.1
+
